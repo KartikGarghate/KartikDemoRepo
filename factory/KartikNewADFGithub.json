@@ -1,0 +1,9 @@
+{
+	"name": "KartikNewADFGithub",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9cfd7fa5-86ac-40f0-b954-76fd2fdc6f43",
+		"tenantId": "c160a942-c869-429f-8a96-f8c8296d57db"
+	}
+}
